@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Luis Ricardo
-- 👀 I’m interested in Technology 
-- 🌱 I’m currently learning about angular, android, .NET.
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me -> GIT
-
 # 💫 About Me:
 Welcome to my profile<br><br>My name is Luis Ricardo<br><br>🔭I'm currently working home office<br>👯 I'm looking to collaborate on source projects<br>🤝 I'm looking for help with any program language<br>🌱 Im' currently learning Angular, Android, TypeScript, .Net.<br>⚡ Keep learning<br>💬 Ask me about<br>
 
@@ -25,8 +19,3 @@ Welcome to my profile<br><br>My name is Luis Ricardo<br><br>🔭I'm currently wo
 [![](https://visitcount.itsvg.in/api?id=luiscastrodev&icon=4&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!---
-luiscastrodev/luiscastrodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
