@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my profile<br><br>My name is Luis Ricardo<br><br>🔭I'm currently working home office<br>👯 I'm looking to collaborate on source projects<br>🤝 I'm looking for help with any program language<br>🌱 Im' currently learning Angular, Android, TypeScript, .Net.<br>⚡ Keep learning<br>💬 Ask me about<br>
+Welcome to my profile<br><br>My name is Luis Ricardo<br><br>🔭I'm currently working as Software Developer<br>👯 I'm looking to collaborate on source projects<br>🤝 I'm looking for help with any program language<br>🌱 Im' currently learning Angular, Android, TypeScript, .Net.<br>⚡ Keep learning<br>💬 Ask me about<br>
 
 
 ## 🌐 Socials:
