@@ -11,9 +11,6 @@ Welcome to my profile<br><br>My name is Luis Ricardo<br><br>🔭I'm currently wo
 
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats-pro.vercel.app/api?username=luiscastrodev&count_private=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="My github stats" />
-</a>
-<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiscastrodev&layout=compact&langs_count=8&hide=smalltalk,cuda,dockerfile&theme=omni&hide_border=false" alt="My github stats" />
 </a>
 
